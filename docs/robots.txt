@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://davidryckman.github.io/ryckman-estates-site/sitemap.xml

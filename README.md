@@ -1,7 +1,7 @@
 # Ryckman Estates
 
-Official public website for Ryckman Estates.
+Official public website for Ryckman Estates, operated by PrinceRedBeard.
 
-Operated by PrinceRedBeard. For support, contact [ryckmanestates@gmail.com](mailto:ryckmanestates@gmail.com).
+Support: [ryckmanestates@gmail.com](mailto:ryckmanestates@gmail.com).
 
-Website publication preparation is in progress.
+Static website source is in `docs/`, intended for GitHub Pages from `main` → `/docs`. The website does not provide app authentication, membership or account-deletion controls. Example people and content are fictional and labeled.
